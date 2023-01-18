@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\St-Mr-Ozhog-N.DNSERV\\.nuget\\packages\\": {}
+    "C:\\Users\\Евгений\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Папки\\музыка\\Tehno\\учёба\\C#\\webinar2\\number1\\number1.csproj",
+      "projectUniqueName": "D:\\картинки учёба\\Язык C#\\C_Sharp_praktish2\\number1\\number1.csproj",
       "projectName": "number1",
-      "projectPath": "D:\\Папки\\музыка\\Tehno\\учёба\\C#\\webinar2\\number1\\number1.csproj",
-      "packagesPath": "C:\\Users\\St-Mr-Ozhog-N.DNSERV\\.nuget\\packages\\",
-      "outputPath": "D:\\Папки\\музыка\\Tehno\\учёба\\C#\\webinar2\\number1\\obj\\",
+      "projectPath": "D:\\картинки учёба\\Язык C#\\C_Sharp_praktish2\\number1\\number1.csproj",
+      "packagesPath": "C:\\Users\\Евгений\\.nuget\\packages\\",
+      "outputPath": "D:\\картинки учёба\\Язык C#\\C_Sharp_praktish2\\number1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\St-Mr-Ozhog-N.DNSERV\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Евгений\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

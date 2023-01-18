@@ -13,3 +13,18 @@ D:\Папки\музыка\Tehno\учёба\C#\webinar2\number1\obj\Debug\net6.0
 D:\Папки\музыка\Tehno\учёба\C#\webinar2\number1\obj\Debug\net6.0\number1.pdb
 D:\Папки\музыка\Tehno\учёба\C#\webinar2\number1\obj\Debug\net6.0\number1.genruntimeconfig.cache
 D:\Папки\музыка\Tehno\учёба\C#\webinar2\number1\obj\Debug\net6.0\ref\number1.dll
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\bin\Debug\net6.0\number1.exe
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\bin\Debug\net6.0\number1.deps.json
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\bin\Debug\net6.0\number1.runtimeconfig.json
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\bin\Debug\net6.0\number1.dll
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\bin\Debug\net6.0\number1.pdb
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\obj\Debug\net6.0\number1.csproj.AssemblyReference.cache
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\obj\Debug\net6.0\number1.GeneratedMSBuildEditorConfig.editorconfig
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\obj\Debug\net6.0\number1.AssemblyInfoInputs.cache
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\obj\Debug\net6.0\number1.AssemblyInfo.cs
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\obj\Debug\net6.0\number1.csproj.CoreCompileInputs.cache
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\obj\Debug\net6.0\number1.dll
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\obj\Debug\net6.0\refint\number1.dll
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\obj\Debug\net6.0\number1.pdb
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\obj\Debug\net6.0\number1.genruntimeconfig.cache
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number1\obj\Debug\net6.0\ref\number1.dll
