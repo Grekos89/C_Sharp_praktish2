@@ -1,0 +1,15 @@
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\bin\Debug\net6.0\number4.exe
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\bin\Debug\net6.0\number4.deps.json
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\bin\Debug\net6.0\number4.runtimeconfig.json
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\bin\Debug\net6.0\number4.dll
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\bin\Debug\net6.0\number4.pdb
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\obj\Debug\net6.0\number4.csproj.AssemblyReference.cache
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\obj\Debug\net6.0\number4.GeneratedMSBuildEditorConfig.editorconfig
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\obj\Debug\net6.0\number4.AssemblyInfoInputs.cache
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\obj\Debug\net6.0\number4.AssemblyInfo.cs
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\obj\Debug\net6.0\number4.csproj.CoreCompileInputs.cache
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\obj\Debug\net6.0\number4.dll
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\obj\Debug\net6.0\refint\number4.dll
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\obj\Debug\net6.0\number4.pdb
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\obj\Debug\net6.0\number4.genruntimeconfig.cache
+D:\картинки учёба\Язык C#\C_Sharp_praktish2\number4\obj\Debug\net6.0\ref\number4.dll
